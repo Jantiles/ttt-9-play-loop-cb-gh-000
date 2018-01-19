@@ -38,5 +38,5 @@ end
 # Define your play method below
 
 def play(board)
-   = 0
+  spots = 0
 end

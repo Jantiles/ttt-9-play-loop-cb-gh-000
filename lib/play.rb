@@ -39,4 +39,5 @@ end
 
 def play(board)
   spots = 0
+  until spots == 8
 end
